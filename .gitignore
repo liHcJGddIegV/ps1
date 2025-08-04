@@ -1,0 +1,21 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+*.lnk
+
+# PowerShell
+*.ps1~      # temporary backups
+*.ps1.xml   # debugger files
+*.psm1~     # temporary module backups
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Environment
+.env
