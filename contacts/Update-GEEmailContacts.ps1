@@ -1,6 +1,6 @@
 ﻿<# 
 Example Usage:
-.\Update-GEEmailContacts.ps1 -TargetDomain "invenergy.com" -Verbose
+.\contacts\Update-GEEmailContacts.ps1 -TargetDomain "invenergy.com" -Verbose
 #>
 [CmdletBinding()]
 param(

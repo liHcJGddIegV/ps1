@@ -17,7 +17,7 @@
     If specified, the script will output additional details during execution.
 
 .EXAMPLE
-    .\UpdateOutlookContacts.ps1 -DryRun -VerboseOutput
+    .\contacts\UpdateOutlookContacts.ps1 -DryRun -VerboseOutput
 #>
 
 param (
